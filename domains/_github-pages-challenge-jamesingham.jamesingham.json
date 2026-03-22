@@ -1,9 +1,12 @@
 {
-    "owner": {
-        "username": "jamesingham",
-        "email": "hello@jamesingham.me"
-    },
-    "records": {
-        "TXT": "aac2a1342b5a89b832452f8e7a79c6"
-    }
+  "description": "My personal website with Cloudflare",
+  "domain": "wesam.is-a.dev",
+  "nameservers": [
+    "ns1.dns.cloudflare.com",
+    "ns2.dns.cloudflare.com"
+  ],
+  "owner": {
+    "username": "wwmswwms5",
+    "email": "wwmswwms55@gamil.com"
+  }
 }
